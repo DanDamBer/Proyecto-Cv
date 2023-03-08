@@ -1,0 +1,44 @@
+#cuerpo{
+    width: 940px;
+    margin: auto;
+    font-family: 'Montserrat', sans-serif;
+    font-family: 'Nunito', sans-serif;
+    font-family: 'Roboto', sans-serif;
+}
+
+.datos_a{
+    border-bottom: solid;
+}
+
+.nombre{
+    text-align: center;
+    text-decoration-line: underline;
+    padding: 20px;
+}
+
+.foto{
+    width: 150px;
+    float: left;
+    margin: 50px 20px 20px 20px;
+}
+
+.titulo{
+    font-weight: bold;
+    text-decoration-line: underline;
+    font-size: 20px;
+}
+
+.descripcion{
+    font-size: 17px;
+}
+
+.contacto{
+    margin: 20px;
+    padding: 0 0 0 200px;
+    line-height: 1.5;
+}
+
+.datos_b{
+    border-bottom: groove;
+}
+
